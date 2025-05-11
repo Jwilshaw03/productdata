@@ -1,0 +1,34 @@
+[
+  {
+    "ProductID": 1,
+    "ProductName": "Amy",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/smart.webp",
+    "ProductExpiry" :"8",
+    "ProductPrice": "Collie",
+    "ProductDescription": "excited and playful"
+  },
+  {
+    "ProductID": 2,
+    "ProductName": "Bob",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/German_Shepherd_-_DSC_0346_(10096362833).jpg",
+    "ProductExpiry": "8",
+    "ProductPrice":"German Shepard",
+    "ProductDescription": "Shy and calm"
+  },
+  {
+    "ProductID": 3,
+    "ProductName": "Daisy",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/Golden%2BRetrievers%2Bdans%2Bpet%2Bcare.jpg",
+    "ProductExpiry": "8",
+    "ProductPrice":"Golden Retriever",
+    "ProductDescription": "Loving and friendly"
+  },
+  {
+    "ProductID": 4,
+    "ProductName": "Eggy",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/Pug-dog.webp",
+    "ProductExpiry": "8",
+    "ProductPrice":"Pug",
+    "ProductDescription": "Grumpy and mean"
+  }
+]
