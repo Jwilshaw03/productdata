@@ -1,4 +1,4 @@
-[
+fo[
   {
     "ProductID": 1,
     "ProductName": "Dog toy",
@@ -12,7 +12,15 @@
     "ProductName": "Dog food",
     "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/dog%20food.jpeg",
     "ProductExpiry": "8",
-    "ProductPrice":"£5",
-    "ProductDescription": "Rubber dog ball throw device"
+    "ProductPrice":"£2",
+    "ProductDescription": "Suitable for all ages"
+  },
+  {
+    "ProductID": 3,
+    "ProductName": "Dog Brush",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/Ultimate1_220x%402x.webp",
+    "ProductExpiry": "8",
+    "ProductPrice":"£12.50",
+    "ProductDescription": "55x30x40 cm dog brush"
   }
 ]
