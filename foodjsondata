@@ -1,0 +1,34 @@
+[
+  {
+    "ProductID": 1,
+    "ProductName": "Dog food",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/4c6a0cc4-c20c-41d2-8448-a4cd76d2c6ee.webp",
+    "ProductExpiry" :"8",
+    "ProductPrice": "£1.50",
+    "ProductDescription": "jelly dog food"
+  },
+  {
+    "ProductID": 2,
+    "ProductName": "Cat food",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/5900951305672.jpg",
+    "ProductExpiry": "8",
+    "ProductPrice":"£2",
+    "ProductDescription": "loved by all cats"
+  },
+  {
+    "ProductID": 3,
+    "ProductName": "Parrot food",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/81NZPojuVBL._AC_UF1000%2C1000_QL80_.jpg",
+    "ProductExpiry": "8",
+    "ProductPrice":"£7.25",
+    "ProductDescription": "delicious and sustainable"
+  },
+  {
+    "ProductID": 4,
+    "ProductName": "tortoise food",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/91%2BCaplloCL._AC_UF1000%2C1000_QL80_.jpg",
+    "ProductExpiry": "8",
+    "ProductPrice":"£12.99",
+    "ProductDescription": "Healthy and cheap"
+  }
+]
