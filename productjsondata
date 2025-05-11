@@ -1,0 +1,18 @@
+[
+  {
+    "ProductID": 1,
+    "ProductName": "Dog toy",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/toy.png",
+    "ProductExpiry": "8",
+    "ProductPrice":"£5",
+    "ProductDescription: "Rubber dog toy "
+  },
+  {
+    "ProductID": 2,
+    "ProductName": "Dog food",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/dog%20food.jpeg",
+    "ProductExpiry": "8",
+    "ProductPrice":"£5",
+    "ProductDescription: "Rubber dog toy "
+  },
+]
