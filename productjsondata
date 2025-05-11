@@ -23,4 +23,12 @@
     "ProductPrice":"£12.50",
     "ProductDescription": "55x30x40 cm dog brush"
   }
+  {
+    "ProductID": 4,
+    "ProductName": "Dog Bed",
+    "ProductPic": "https://raw.githubusercontent.com/Jwilshaw03/productdata/refs/heads/main/Willow_Tweed_Boxy_Bed_Main_grey_background_adjust_1024x1024.webp",
+    "ProductExpiry": "8",
+    "ProductPrice":"£30.99",
+    "ProductDescription": "High quality bed for medium-sized dog"
+  }
 ]
